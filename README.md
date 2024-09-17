@@ -1,3 +1,5 @@
-# Tempest
-A multi-purpose Discord bot built in Discord.js
-//Under development 
+# Tempest Bot
+## About:
+### A multi-purpose bot built in DJS 12 
+#### ABANDONED
+
